@@ -1,6 +1,6 @@
 <p>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdni.iconscout.com/illustration/premium/thumb/female-web-developer-working-on-project-5691620-4759502.png">
-        <img align="right" alt="Software engineer Illustration - https://iconscout.com/contributors/delesign" height="420" src="https://cdni.iconscout.com/illustration/premium/thumb/female-web-developer-working-on-project-5691620-4759502.png" style="max-width: 100%;">
+        <img align="right" alt="Software engineer Illustration - https://iconscout.com/contributors/delesign" height="410" src="https://cdni.iconscout.com/illustration/premium/thumb/female-web-developer-working-on-project-5691620-4759502.png" style="max-width: 100%;">
     </a>
 </p><br>
     <h1>Rafaelly Diniz</h1>
