@@ -2,7 +2,7 @@
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdni.iconscout.com/illustration/premium/thumb/female-web-developer-working-on-project-5691620-4759502.png">
         <img align="right" alt="Software engineer Illustration - https://iconscout.com/contributors/delesign" height="420" src="https://cdni.iconscout.com/illustration/premium/thumb/female-web-developer-working-on-project-5691620-4759502.png" style="max-width: 100%;">
     </a>
-</p>
+</p><br>
     <h1>Rafaelly Diniz</h1>
     <p align="justify" dir="auto">Biomédica por formação, moro em São Paulo-SP, Brasil, atualmente estudante Full-Stack. 
     <br>
