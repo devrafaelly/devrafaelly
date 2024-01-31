@@ -6,7 +6,7 @@
     <h1>Rafaelly Diniz</h1>
     <p align="justify" dir="auto">Biomédica por formação, moro em São Paulo-SP, Brasil, atualmente estudante Full-Stack. 
     <br>
-    Apaixonada por ciências e tecnologia, tenho como hobbies ler, assistir sobre diversos assuntos e jogar.
+    Apaixonada por ciências e tecnologia, tenho como hobbies ler, assistir conteúdos sobre diversos assuntos e jogar.
 </p>
 
 <h3>Contato</h3>
