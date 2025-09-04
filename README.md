@@ -4,9 +4,9 @@
     </a>
 </p><br>
     <h1>Rafaelly Diniz</h1>
-    <p align="justify" dir="auto">Biomédica por formação, moro em São Paulo-SP, Brasil, atualmente estudante Full-Stack. 
+    <p align="justify" dir="auto">Formada em Biomedicina, porém em transição de carreira, moro em São Paulo-SP, Brasil, atualmente estudando Engenharia de Software na 42SP. 
     <br>
-    Apaixonada por ciências e tecnologia, tenho como hobbies ler, assistir conteúdos sobre diversos assuntos e jogar.
+    Apaixonada por ciências e tecnologia, meus hobbies são ler, assistir conteúdos sobre diversos assuntos e jogar.
 </p>
 
 <h3>Contato</h3>
