@@ -1,12 +1,20 @@
 # Rafaelly Diniz
 
-```javascript
-const rafaelly = {
-    background: "Biomedical Sciences",
-    currentFocus: "Software Engineering @ 42SP",
-    location: "São Paulo, Brazil",
-    interests: ["Science", "Technology", "Reading", "Gaming"],
-    status: "Transitioning into tech"
+```c
+typedef struct {
+    char *background;
+    char *current_focus;
+    char *location;
+    char *interests[4];
+    char *status;
+} Developer;
+
+Developer rafaelly = {
+    .background = "Biomedical Sciences",
+    .current_focus = "Software Engineering @ 42SP",
+    .location = "São Paulo, Brazil",
+    .interests = {"Science", "Technology", "Reading", "Gaming"},
+    .status = "Transitioning into tech"
 };
 ```
 
