@@ -42,15 +42,15 @@ Passionate about science, technology, reading, and gaming.
     </a>
 </div>
 
-## Contributions
-
-![Snake animation](https://github.com/devrafaelly/devrafaelly/blob/output/github-contribution-grid-snake.svg)
-
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org){:target="_blank"}
-
 ## Contact
 
 <div> 
   <a href="mailto:rafaellypoliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/rafaellyoliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a> 
 </div>
+
+## Contributions
+
+![Snake animation](https://github.com/devrafaelly/devrafaelly/blob/output/github-contribution-grid-snake.svg)
+
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
