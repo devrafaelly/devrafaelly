@@ -12,25 +12,10 @@ Biomedical Sciences graduate transitioning into tech. Currently studying Softwar
 Passionate about science, technology, reading, and gaming.
 </p>
 
-### 📫 Contact
-
-<div> 
-  <a href="mailto:rafaellypoliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/rafaellyoliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a> 
-</div>
-
-## 📊 GitHub Stats
+## Tech Stack
 
 <div>
-    <a href="https://github.com/devrafaelly/github-readme-stats">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devrafaelly&show_icons=true&theme=transparent&hide_title=true&hide_border=true&icon_color=785ef0&text_color=ffb000&ring_color=ffb000&rank_icon=github" />
-    </a>
-</div>
-
-## 💻 Tech Stack
-
-<div>
-    <a href="https://github.com/devrafaelly">
+    <a href="https://github.com/devrafaelly" target="_blank">
         <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrafaelly&layout=donut&langs_count=8&card_width=320&theme=transparent&hide_title=true&hide_border=true&icon_color=785ef0&text_color=ffb000&ring_color=ffb000" />
     </a>
 </div>
@@ -49,8 +34,23 @@ Passionate about science, technology, reading, and gaming.
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 </div>
 
-## 🐍 Contributions
+## GitHub Stats
+
+<div>
+    <a href="https://github.com/devrafaelly/github-readme-stats" target="_blank">
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=devrafaelly&show_icons=true&theme=transparent&hide_title=true&hide_border=true&icon_color=785ef0&text_color=ffb000&ring_color=ffb000&rank_icon=github" />
+    </a>
+</div>
+
+## Contributions
 
 ![Snake animation](https://github.com/devrafaelly/devrafaelly/blob/output/github-contribution-grid-snake.svg)
 
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org){:target="_blank"}
+
+## Contact
+
+<div> 
+  <a href="mailto:rafaellypoliveira@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-000?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/rafaellyoliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8"></a> 
+</div>
