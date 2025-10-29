@@ -16,7 +16,7 @@ Passionate about science, technology, reading, and gaming.
 
 <div>
     <a href="https://github.com/devrafaelly" target="_blank">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrafaelly&layout=donut&langs_count=8&card_width=320&theme=transparent&hide_title=true&hide_border=true&icon_color=785ef0&text_color=ffb000&ring_color=ffb000" />
+        <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devrafaelly&layout=donut&langs_count=8&card_width=400&theme=transparent&hide_title=true&hide_border=true&icon_color=785ef0&text_color=ffb000&ring_color=ffb000" />
     </a>
 </div>
 
