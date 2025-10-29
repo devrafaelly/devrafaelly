@@ -1,16 +1,14 @@
-<p>
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdni.iconscout.com/illustration/premium/thumb/female-web-developer-working-on-project-5691620-4759502.png">
-        <img align="right" alt="Software engineer Illustration - https://iconscout.com/contributors/delesign" height="380" src="https://cdni.iconscout.com/illustration/premium/thumb/female-web-developer-working-on-project-5691620-4759502.png" style="max-width: 100%;">
-    </a>
-</p>
-
 # Rafaelly Diniz
 
-<p align="justify">
-Biomedical Sciences graduate transitioning into tech. Currently studying Software Engineering at 42SP in São Paulo, Brazil.
-<br><br>
-Passionate about science, technology, reading, and gaming.
-</p>
+```javascript
+const rafaelly = {
+    background: "Biomedical Sciences",
+    currentFocus: "Software Engineering @ 42SP",
+    location: "São Paulo, Brazil",
+    interests: ["Science", "Technology", "Reading", "Gaming"],
+    status: "Transitioning into tech"
+};
+```
 
 ## Tech Stack
 
